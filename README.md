@@ -1,5 +1,4 @@
 # Huggingface-Pipeline
-# Hugging Face Pipeline
 
 This repository contains a Jupyter Notebook that demonstrates how to use the Hugging Face `transformers` library for natural language processing (NLP) tasks using pipelines.
 
